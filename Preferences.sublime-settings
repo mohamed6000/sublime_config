@@ -1,0 +1,53 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "Alabaster Dark.sublime-color-scheme",
+	"theme": "Default.sublime-theme",
+	"font_size": 10,
+
+	"auto_complete": false,
+
+	// caret
+	"block_caret": false,
+	"caret_style": "phase",
+	"caret_extra_top": 0,
+	"caret_extra_bottom": 0,
+	"caret_extra_width": 8,
+
+	// lines
+	"gutter": false,
+	"line_numbers": true,
+	"highlight_line": false,
+	"highlight_gutter": false,
+	"highlight_line_number": false,
+	"mini_diff": false,
+	"relative_line_numbers": false,
+	
+	"overlay_scroll_bars": "enabled",
+	"index_files": true,
+	"word_wrap": true,
+	"draw_white_space": false,
+	"draw_indent_guides": false,
+
+	// tabs
+	"show_tab_close_buttons": false,
+	"shift_tab_unindent": true,
+	"translate_tabs_to_spaces": true,
+	"hide_tab_scrolling_buttons": true,
+	"hide_new_tab_button": true,
+
+	// status bar
+	"show_indentation": false,
+	"show_syntax": true,
+	"show_line_column": "compact",
+	"show_git_status_in_status_bar": false,
+	"show_sidebar_button": false,
+	"show_encoding": true,
+	"show_line_endings": true,
+
+	// workspace
+	"remember_workspace": false,
+	"show_full_path": false,
+}
