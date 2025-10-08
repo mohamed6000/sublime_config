@@ -3,9 +3,11 @@
 	[
 		"Vintage",
 	],
-	"color_scheme": "Alabaster Dark.sublime-color-scheme",
-	"theme": "Default.sublime-theme",
-	"font_size": 10,
+	"color_scheme": "Nebula.sublime-color-scheme",
+	"theme": "Soda Dark 3.sublime-theme",
+	// "font_face": "Menlo",
+	"font_face": "Lucida Console",
+	"font_size": 12,
 
 	"auto_complete": false,
 
@@ -50,4 +52,8 @@
 	// workspace
 	"remember_workspace": false,
 	"show_full_path": false,
+
+	// Set to true to automatically save files when switching to a different file
+    // or application
+    "save_on_focus_lost": false,
 }
