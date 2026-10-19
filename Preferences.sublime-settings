@@ -3,13 +3,14 @@
 	[
 		"Vintage",
 	],
-	"color_scheme": "Nebula.sublime-color-scheme",
+	"color_scheme": "Dark+.sublime-color-scheme",
 	"theme": "Soda Dark 3.sublime-theme",
 	// "font_face": "Menlo",
 	"font_face": "Lucida Console",
-	"font_size": 12,
+	"font_size": 11,
 
 	"auto_complete": false,
+	"default_line_ending": "unix",
 
 	// caret
 	"block_caret": false,
@@ -27,7 +28,7 @@
 	"mini_diff": false,
 	"relative_line_numbers": false,
 	
-	"overlay_scroll_bars": "enabled",
+	"overlay_scroll_bars": "disabled",
 	"index_files": true,
 	"word_wrap": true,
 	"draw_white_space": false,
@@ -56,4 +57,6 @@
 	// Set to true to automatically save files when switching to a different file
     // or application
     "save_on_focus_lost": false,
+
+    /*"overlay_scroll_bars": "disabled",*/
 }
